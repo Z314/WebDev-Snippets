@@ -5,8 +5,8 @@ Folder Name:
 
 collapse.html:
 
-![](images/browserCollapse.JPG)
+![](collapsible/images/browserCollapse.JPG)
 
 bootstrapCollapseButton.html:
 
-![](images/browserBootstrapCollapse.JPG)
+![](collapsible/images/browserBootstrapCollapse.JPG)
